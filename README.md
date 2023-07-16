@@ -1,1 +1,1 @@
-# Multipliers
+# Sequential Multiplier
